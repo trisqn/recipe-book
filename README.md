@@ -4,4 +4,4 @@ A collection of recipes created for the ICD0028 version control assignment.
 
 ## Recipes
 
-- Pancake recipe will be added here
+- [Pannkoogid](recipes/pannkoogid.md)
